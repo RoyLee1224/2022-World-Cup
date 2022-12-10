@@ -1,0 +1,15 @@
+.tournament-bracket__table {
+  width: 100%;
+}
+
+.tournament-bracket__caption {
+  font-size: 0.8rem;
+  color: #BDBDBD;
+  font-weight: 300;
+  padding-bottom: 0.75em;
+}
+
+.tournament-bracket__flag{
+  width:30%;
+  height:30%;
+}
